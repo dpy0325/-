@@ -1,4 +1,0 @@
-.生成一个新的SSH密钥
-打开 Git Bash，输入如下命令，然后连续按三个回车即可：
-ssh-keygen -t rsa -C "your_email@example.com"
-然后会出来提示Enter file in which to save the key 后面是一个路径，你就会找到你想要的.ssh文件夹
